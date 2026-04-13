@@ -2,12 +2,11 @@ name: Notion to GitHub README Sync
 
 on:
   schedule:
-    # 設定每天 UTC 時間 00:00 (台灣時間早上 8 點) 自動執行
     - cron: '0 0 * * *'
-  workflow_dispatch: # 允許手動點擊按鈕立即執行
+  workflow_dispatch: 
 
 permissions:
-  contents: write # 賦予機器人寫入檔案的權限
+  contents: write 
 
 jobs:
   build:
@@ -15,10 +14,10 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # 升級到 v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # 升級到 v5
         with:
           python-version: '3.9'
 
@@ -36,5 +35,4 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          # 只有在檔案有變動時才 commit，避免報錯
           git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-update projects from notion" && git push)
