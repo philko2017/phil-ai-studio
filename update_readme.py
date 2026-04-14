@@ -55,8 +55,8 @@ def main():
                 if p.get('cover'):
                     img_url = p['cover'].get('external', {}).get('url') or p['cover'].get('file', {}).get('url')
 
-                # --- 核心邏輯修改：一排 5 個 ---
-                if count % 5 == 0 and count != 0:
+                # --- 核心邏輯修改：一排 3 個 ---
+                if count % 3 == 0 and count != 0:
                     content += "</tr><tr>"
                 
                 # 移除 tag 顯示，優化卡片間距
