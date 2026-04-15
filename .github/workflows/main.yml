@@ -34,5 +34,5 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-update projects from notion" && git push)
+          # 關鍵修改：將 images 資料夾一併加入 git
+          git add README.md images/* git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-update projects and images from notion" && git push)
