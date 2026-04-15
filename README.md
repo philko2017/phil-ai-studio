@@ -1,7 +1,8 @@
-# 我的 AI Studio 專案
+# Phil AI Studio 
 
-這裡記錄了近期透過 AI 輔助開發的應用服務與練習。
-我主要是在 Notion 建立我的資料庫，透過 Notion 到 GitHub 的同步按鈕，每天晚上自動同步過來到 GitHub。
+## 這裡記錄了近期透過 AI 輔助開發的應用服務與練習。
+### 我主要是在 Gemini 的 Canvas 以及 AI Studio，用對話的方式將一些靈感產生成小工具。
+### 接著在 Notion 建立我的資料庫，透過 Notion 到 GitHub 的同步按鈕，每天晚上自動同步過來到 GitHub。
 
 歡迎自取使用，也歡迎給我意見。
 
