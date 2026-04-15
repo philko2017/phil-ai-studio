@@ -2,7 +2,7 @@
 
  ### 這裡主要是我透過 AI Studio 以及 Gemini Canvas，透過對話的方式創造的一些生活小工具。
 
- ### 我主要在 Notion 使用圖庫的瀏覽模式排版好，再透過 Notion 到 GitHub 的同步按鈕送到 GitHub 
+ ### 我主要在 Notion 使用圖庫的瀏覽模式排版好，再透過同步按鈕送到 GitHub 
 
  ### 歡迎自由取用與交流 
 
