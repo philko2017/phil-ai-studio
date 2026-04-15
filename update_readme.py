@@ -37,7 +37,7 @@ def main():
     projects = get_projects()
     if not os.path.exists('images'): os.makedirs('images')
     
-    content = "# 我的 AI Studio 專案\n\n這裡記錄了近期透過 AI 輔助開發的應用服務與練習。\n\n<table border='0'><tr>"
+    content = "# Phil AI Studio 專案\n\n ## 這裡主要是我透過 AI Studio 以及 Gemini Canvas，透過對話的方式創造的一些生活小工具。\n\n ## 我主要在 Notion 使用圖庫的瀏覽模式排版好，再透過 Notion 到 GitHub 的同步按鈕送到 GitHub \n\n ### 歡迎自由取用與交流 \n\n<table border='0'><tr>"
     
     valid_count = 0
     for i, p in enumerate(projects):
