@@ -149,7 +149,7 @@ def main():
             continue
 
     # 結尾處理
-    readme_content += f"</tr></table>\\n\\n---\\n*最後更新時間：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*"
+    readme_content += f"</tr></table>\n\n---\n*最後更新時間：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*"
     
     # 寫入 README.md
     with open("README.md", "w", encoding="utf-8") as f:
