@@ -1,9 +1,9 @@
-name: Sync Notion to Mobile Landing Page
+name: Daily Sync Notion to GitHub & Landing Page
 
 on:
   schedule:
-    - cron: '0 * * * *' # 每小時執行一次
-  workflow_dispatch: # 允許手動觸發
+    - cron: '0 16 * * *' # 每天台灣時間凌晨 0 點執行
+  workflow_dispatch: # 保留手動觸發按鈕，方便你隨時測試
 
 jobs:
   build:
@@ -33,5 +33,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Auto-update Landing Page and README" || exit 0
+          git commit -m "Daily update: README and Mobile Landing Page" || exit 0
           git push
