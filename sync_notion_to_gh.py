@@ -75,7 +75,7 @@ def main():
     if not os.path.exists(IMAGE_DIR): os.makedirs(IMAGE_DIR)
     
     # README 標題與網格開頭
-    readme_content = "## Phil AI Studio 專案\\n\\n ### 這裡主要是我透過 AI Studio 以及 Gemini Canvas，透過對話的方式創造的一些生活小工具。\\n\\n ### 我主要在 Notion 使用圖庫的瀏覽模式排版好，再透過同步按鈕送到 GitHub \\n\\n ### 歡迎自由取用與交流 \\n\\n<table border='0'><tr>"
+    readme_content = "## Phil AI Studio 專案\n\n ### 這裡主要是我透過 AI Studio 以及 Gemini Canvas，透過對話的方式創造的一些生活小工具。\n\n ### 我主要在 Notion 使用圖庫的瀏覽模式排版好，再透過同步按鈕送到 GitHub \n\n ### 歡迎自由取用與交流 \n\n<table border='0'><tr>"
     
     html_items = ""
     valid_count = 0
