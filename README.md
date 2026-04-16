@@ -1,12 +1,4 @@
-## Phil AI Studio 專案
-
- ### 這裡主要是我透過 AI Studio 以及 Gemini Canvas，透過對話的方式創造的一些生活小工具。
-
- ### 我主要在 Notion 使用圖庫的瀏覽模式排版好，再透過同步按鈕送到 GitHub 
-
- ### 歡迎自由取用與交流 
-
-<table border='0'><tr>
+## Phil AI Studio 專案\n\n ### 這裡主要是我透過 AI Studio 以及 Gemini Canvas，透過對話的方式創造的一些生活小工具。\n\n ### 我主要在 Notion 使用圖庫的瀏覽模式排版好，再透過同步按鈕送到 GitHub \n\n ### 歡迎自由取用與交流 \n\n<table border='0'><tr>
 <td width="33%" valign="top">
   <img src="./images/33bf417a-df99-8022-8eb9-c474763a818b.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
@@ -66,7 +58,4 @@
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;">透過文字或者是上傳模特兒圖片，再上傳商品的圖片，產生不同風格的商品展示照</p>
     <a href="https://ai.studio/apps/ec466d0e-b5ec-4707-9db5-c884fc55c803?fullscreenApplet=true" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
-</td></tr></table>
-
----
-*最後更新時間：自動同步自 Notion 資料庫*
+</td></tr></table>\n\n---\n*最後更新時間：2026-04-16 16:30:09*
