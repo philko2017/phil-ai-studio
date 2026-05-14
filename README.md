@@ -8,6 +8,36 @@
 
 <table border='0'><tr>
 <td width="33%" valign="top">
+  <img src="./images/360f417a-df99-8069-9029-da5a7306a4b0.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
+  <br>
+  <div style="padding: 10px 0;">
+    <span style="font-size: 0.8em; background: #f0f0f0; padding: 2px 6px; border-radius: 4px;">寫作</span><br>
+    <strong style="font-size: 1.1em; display: block; margin-top: 5px;">🌡️ 溝通溫度計</strong>
+    <p style="font-size: 0.9em; color: #666; line-height: 1.4;"></p>
+    <a href="https://gemini.google.com/share/9e5c1cab3882" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
+  </div>
+</td>
+<td width="33%" valign="top">
+  <img src="./images/360f417a-df99-8036-b985-fdc53abeaf1d.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
+  <br>
+  <div style="padding: 10px 0;">
+    <span style="font-size: 0.8em; background: #f0f0f0; padding: 2px 6px; border-radius: 4px;">寫作</span><br>
+    <strong style="font-size: 1.1em; display: block; margin-top: 5px;">NotebookLM 會議記錄提示詞庫</strong>
+    <p style="font-size: 0.9em; color: #666; line-height: 1.4;"></p>
+    <a href="https://gemini.google.com/share/e6fa62488e17" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
+  </div>
+</td>
+<td width="33%" valign="top">
+  <img src="./images/360f417a-df99-8005-9b75-c23aeea57597.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
+  <br>
+  <div style="padding: 10px 0;">
+    <span style="font-size: 0.8em; background: #f0f0f0; padding: 2px 6px; border-radius: 4px;">寫作</span><br>
+    <strong style="font-size: 1.1em; display: block; margin-top: 5px;">NotebookLM Podcast 企劃提示詞庫</strong>
+    <p style="font-size: 0.9em; color: #666; line-height: 1.4;"></p>
+    <a href="https://gemini.google.com/share/d4db6fc8d53b" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
+  </div>
+</td></tr><tr>
+<td width="33%" valign="top">
   <img src="./images/34af417a-df99-8055-938d-d80575dc7c54.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
   <div style="padding: 10px 0;">
@@ -109,4 +139,4 @@
 </td></tr></table>
 
 ---
-*最後更新時間：2026-05-13 17:54:04*
+*最後更新時間：2026-05-14 16:51:39*
