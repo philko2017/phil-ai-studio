@@ -14,7 +14,7 @@
     <span style="font-size: 0.8em; background: #f0f0f0; padding: 2px 6px; border-radius: 4px;">遊戲</span><br>
     <strong style="font-size: 1.1em; display: block; margin-top: 5px;">彩虹卡 AI 靈魂助手</strong>
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;"></p>
-    <a href="https://gemini.google.com/share/d831939cd684" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
+    <a href="https://gemini.google.com/share/652a5a43a3f5" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
 </td>
 <td width="33%" valign="top">
@@ -149,4 +149,4 @@
 </td></tr></table>
 
 ---
-*最後更新時間：2026-05-15 17:20:38*
+*最後更新時間：2026-05-16 02:49:47*
