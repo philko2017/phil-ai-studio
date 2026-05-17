@@ -14,7 +14,7 @@
     <span style="font-size: 0.8em; background: #f0f0f0; padding: 2px 6px; border-radius: 4px;">自我成長</span><br>
     <strong style="font-size: 1.1em; display: block; margin-top: 5px;">36個更了解自己的問題</strong>
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;"></p>
-    <a href="https://g.co/gemini/share/b2c08b1e24c3" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
+    <a href="https://g.co/gemini/share/d0939d2ccf4c" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
 </td>
 <td width="33%" valign="top">
@@ -159,4 +159,4 @@
 </td></tr></table>
 
 ---
-*最後更新時間：2026-05-17 00:23:59*
+*最後更新時間：2026-05-17 16:43:48*
