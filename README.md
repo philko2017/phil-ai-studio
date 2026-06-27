@@ -8,13 +8,13 @@
 
 <table border='0'><tr>
 <td width="33%" valign="top">
-  <img src="https://via.placeholder.com/600x400?text=No+Cover" width="100%" style="border-radius:10px; border: 1px solid #eee;">
+  <img src="./images/376f417a-df99-8090-a319-ced0b03ed370.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
   <div style="padding: 10px 0;">
-    <span style="font-size: 0.8em; background: #f0f0f0; padding: 2px 6px; border-radius: 4px;"></span><br>
-    <strong style="font-size: 1.1em; display: block; margin-top: 5px;">未命名</strong>
-    <p style="font-size: 0.9em; color: #666; line-height: 1.4;"></p>
-    <a href="None" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
+    <span style="font-size: 0.8em; background: #f0f0f0; padding: 2px 6px; border-radius: 4px;">寫作</span><br>
+    <strong style="font-size: 1.1em; display: block; margin-top: 5px;">短影片題材產生器</strong>
+    <p style="font-size: 0.9em; color: #666; line-height: 1.4;">高端知識型娛樂腳本產生器</p>
+    <a href="https://share.gemini.google/EYx7rlkFPtZR" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
 </td>
 <td width="33%" valign="top">
@@ -169,4 +169,4 @@
 </td></tr></table>
 
 ---
-*最後更新時間：2026-06-26 17:28:23*
+*最後更新時間：2026-06-27 16:54:24*
