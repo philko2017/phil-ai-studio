@@ -8,6 +8,16 @@
 
 <table border='0'><tr>
 <td width="33%" valign="top">
+  <img src="./images/3d0f417a-df99-80da-81fa-ef5f1467fc9b.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
+  <br>
+  <div style="padding: 10px 0;">
+    <span style="font-size: 0.8em; background: #f0f0f0; padding: 2px 6px; border-radius: 4px;">自我成長</span><br>
+    <strong style="font-size: 1.1em; display: block; margin-top: 5px;">深刻對話 團隊引導卡牌</strong>
+    <p style="font-size: 0.9em; color: #666; line-height: 1.4;"></p>
+    <a href="https://gemini.google.com/share/2bf9d4407d82?skid=4dd0fc48-2d01-499a-8f03-7c33f8ea7cee" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
+  </div>
+</td>
+<td width="33%" valign="top">
   <img src="./images/399f417a-df99-800f-9927-ff0454fb52f8.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
   <div style="padding: 10px 0;">
@@ -26,7 +36,7 @@
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;">高端知識型娛樂腳本產生器</p>
     <a href="https://share.gemini.google/EYx7rlkFPtZR" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
-</td>
+</td></tr><tr>
 <td width="33%" valign="top">
   <img src="./images/363f417a-df99-80df-a324-e6bbef33b594.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
@@ -36,7 +46,7 @@
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;"></p>
     <a href="https://g.co/gemini/share/d0939d2ccf4c" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
-</td></tr><tr>
+</td>
 <td width="33%" valign="top">
   <img src="./images/360f417a-df99-80c8-a3e3-d1ecd567f71f.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
@@ -56,7 +66,7 @@
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;"></p>
     <a href="https://gemini.google.com/share/9e5c1cab3882" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
-</td>
+</td></tr><tr>
 <td width="33%" valign="top">
   <img src="./images/360f417a-df99-8036-b985-fdc53abeaf1d.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
@@ -66,7 +76,7 @@
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;"></p>
     <a href="https://gemini.google.com/share/e6fa62488e17" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
-</td></tr><tr>
+</td>
 <td width="33%" valign="top">
   <img src="./images/360f417a-df99-8005-9b75-c23aeea57597.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
@@ -86,7 +96,7 @@
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;">上傳大頭照變成形象照</p>
     <a href="https://gemini.google.com/share/271bd0c17b1d" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
-</td>
+</td></tr><tr>
 <td width="33%" valign="top">
   <img src="./images/34af417a-df99-80fe-8cd9-da9fab00fa30.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
@@ -96,7 +106,7 @@
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;">經典遊戲，手機跟鍵盤都可以操作</p>
     <a href="https://ai.studio/apps/0680c5a9-5344-487c-a9fc-7d59d9d3b570?fullscreenApplet=true" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
-</td></tr><tr>
+</td>
 <td width="33%" valign="top">
   <img src="./images/34af417a-df99-80fd-8911-ff9cdf55b1bf.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
@@ -116,7 +126,7 @@
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;">將你的照片變成專業、動感的運動攝影大作！</p>
     <a href="https://ai.studio/apps/drive/1eY4Au1O7PL5dLCspg9xqamxrtE83ClWx?fullscreenApplet=true" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
-</td>
+</td></tr><tr>
 <td width="33%" valign="top">
   <img src="./images/343f417a-df99-8090-aa9e-c5f9ba2fd94f.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
@@ -126,7 +136,7 @@
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;">透過文字或者是上傳模特兒圖片，再上傳商品的圖片，產生不同風格的商品展示照</p>
     <a href="https://ai.studio/apps/ec466d0e-b5ec-4707-9db5-c884fc55c803?fullscreenApplet=true" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
-</td></tr><tr>
+</td>
 <td width="33%" valign="top">
   <img src="./images/342f417a-df99-80e5-874c-d335e082edd4.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
@@ -146,7 +156,7 @@
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;">上傳圖片，創造獨一無二的問候圖！</p>
     <a href="https://ai.studio/apps/b0b65972-391a-45fc-9280-baf21e23042f?fullscreenApplet=true" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
-</td>
+</td></tr><tr>
 <td width="33%" valign="top">
   <img src="./images/342f417a-df99-80ba-82e2-cd9b6ae2c3ba.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
@@ -156,7 +166,7 @@
     <p style="font-size: 0.9em; color: #666; line-height: 1.4;">設計角色並產生一套帶有自訂文字和姿勢的完整 LINE 貼圖。</p>
     <a href="https://ai.studio/apps/2302795a-a0e6-4534-bc6c-b69ef10d21bc?fullscreenApplet=true" target="_blank" style="text-decoration: none; color: #0366d6;">🚀 啟動專案</a>
   </div>
-</td></tr><tr>
+</td>
 <td width="33%" valign="top">
   <img src="./images/33bf417a-df99-8062-bba7-e5f599c51084.png" width="100%" style="border-radius:10px; border: 1px solid #eee;">
   <br>
@@ -179,4 +189,4 @@
 </td></tr></table>
 
 ---
-*最後更新時間：2026-09-02 19:02:34*
+*最後更新時間：2026-09-03 18:57:47*
